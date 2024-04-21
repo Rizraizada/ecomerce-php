@@ -1,0 +1,122 @@
+[21-Apr-2024 15:04:16 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/create-product.php(8): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/create-product.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:04:22 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/create-product.php(8): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/create-product.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:04:24 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/dashboard.php(9): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/dashboard.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:04:24 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/dashboard.php(9): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/dashboard.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:04:25 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/dashboard.php(9): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/dashboard.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:04:25 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/dashboard.php(9): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/dashboard.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:04:25 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/dashboard.php(9): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/dashboard.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:05:33 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/dashboard.php(9): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/dashboard.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:05:56 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/dashboard.php(9): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/dashboard.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:05:56 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php(9): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/dashboard.php(9): Controller->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/admin/dashboard.php(11): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/app/Http/Controllers/Controller.php on line 9
+[21-Apr-2024 15:08:51 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:12:21 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:16:21 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:19:39 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:20:56 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:21:34 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:22:06 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:22:57 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:29:59 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:30:34 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:32:36 Asia/Dhaka] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/session.php on line 6
+[21-Apr-2024 15:33:49 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:33:53 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:35:42 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:35:45 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/session.php on line 37
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/session.php on line 53
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_image" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 66
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_name" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 68
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 93
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 93
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 110
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 110
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 127
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 127
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 144
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 144
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 161
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 161
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 178
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 178
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 195
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 195
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 211
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_type" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 211
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_image" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 247
+[21-Apr-2024 15:36:40 Asia/Dhaka] PHP Warning:  Undefined array key "SMC_login_admin_name" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/include/top.php on line 248
+[21-Apr-2024 15:36:54 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:36:56 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:38:16 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 15:39:11 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10
+[21-Apr-2024 18:35:35 Asia/Dhaka] PHP Warning:  Undefined array key "ajax_edit_product" in /home/besttec2/public_html/ecommerce.besttechbd.com/admin/resource/view/content/ajax.php on line 10

@@ -1,0 +1,338 @@
+[21-Apr-2024 15:04:30 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php:8
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php(8): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/include/top.php(49): Eloquent->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/index.php(8): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php on line 8
+[21-Apr-2024 15:04:51 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php:8
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php(8): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/include/top.php(49): Eloquent->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/index.php(8): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php on line 8
+[21-Apr-2024 15:05:31 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php:8
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php(8): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/include/top.php(49): Eloquent->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/index.php(8): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php on line 8
+[21-Apr-2024 15:05:32 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php:8
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php(8): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/include/top.php(49): Eloquent->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/index.php(8): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php on line 8
+[21-Apr-2024 15:05:32 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php:8
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php(8): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/include/top.php(49): Eloquent->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/index.php(8): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php on line 8
+[21-Apr-2024 15:05:58 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php:8
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php(8): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/include/top.php(49): Eloquent->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/index.php(8): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php on line 8
+[21-Apr-2024 15:06:24 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php:8
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php(8): PDO->__construct()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/include/top.php(49): Eloquent->__construct()
+#2 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include('/home/besttec2/...')
+#3 /home/besttec2/public_html/ecommerce.besttechbd.com/index.php(8): View->loadContent()
+#4 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/app/Models/Eloquent.php on line 8
+[21-Apr-2024 16:45:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 26
+[21-Apr-2024 16:45:03 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 28
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:45:41 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:180
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 180
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:47:57 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:47:58 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:180
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 180
+[21-Apr-2024 16:48:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 26
+[21-Apr-2024 16:48:14 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 28
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:48:28 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:180
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 180
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:49:12 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:49:13 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:180
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 180
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:49:46 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:49:47 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:180
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 180
+[21-Apr-2024 16:49:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 26
+[21-Apr-2024 16:49:51 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 28
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 82
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 84
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 137
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 138
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:50:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 139
+[21-Apr-2024 16:50:06 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:180
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 180
+[21-Apr-2024 16:54:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 26
+[21-Apr-2024 16:54:05 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 28
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 79
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 79
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 81
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 81
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 130
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 130
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 131
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 131
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 132
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 132
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 16:54:29 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:177
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 177
+[21-Apr-2024 17:05:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 26
+[21-Apr-2024 17:05:28 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 28
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 79
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 79
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 81
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 81
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 130
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 130
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 131
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 131
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 132
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 132
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 17:05:55 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:177
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 177
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 40
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 50
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 51
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key "SSCF_orders_order_id" in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 64
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 67
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 79
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 79
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 81
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 81
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 130
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 130
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 131
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 131
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 132
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 132
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 133
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 134
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 135
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Undefined array key 0 in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type null in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 136
+[21-Apr-2024 17:09:20 Asia/Dhaka] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php:177
+Stack trace:
+#0 /home/besttec2/public_html/ecommerce.besttechbd.com/app/Http/Controllers/View.php(15): include()
+#1 /home/besttec2/public_html/ecommerce.besttechbd.com/payments.php(9): View->loadContent()
+#2 {main}
+  thrown in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/payments.php on line 177
+[21-Apr-2024 17:59:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 26
+[21-Apr-2024 17:59:53 Asia/Dhaka] PHP Warning:  Trying to access array offset on value of type int in /home/besttec2/public_html/ecommerce.besttechbd.com/resource/view/content/order.php on line 28
